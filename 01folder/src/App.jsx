@@ -1,5 +1,7 @@
-function App() {
-  return <h1>Jobbbbb!!!!!</h1>;
-}
+import React from "react";
+
+const App = () => {
+  return <></>;
+};
 
 export default App;
